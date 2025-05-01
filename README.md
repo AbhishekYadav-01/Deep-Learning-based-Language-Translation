@@ -103,7 +103,6 @@ The project includes modular code, Jupyter notebooks, and pretrained model check
    ```bash
    git clone <your-repo-url>
    cd CSL4020-project
-````
 
 2. **Install dependencies for each model:**
 
