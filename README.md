@@ -28,8 +28,6 @@ The project includes modular code, Jupyter notebooks, and pretrained model check
 
 ## Project Structure
 
-
-
 ├── ConvSeq2Seq-Model/
 │   ├── convS2S.py                # Main code for ConvSeq2Seq model
 │   ├── convseq2seq-model.pt      # Pretrained ConvSeq2Seq checkpoint
